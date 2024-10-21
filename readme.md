@@ -19,4 +19,4 @@ Tämän sovelluksen avulla voit:
 
 ## Kuinka sovellus otetaan käyttöön
 
-   git clone https://github.com/kayttajanimi/laskuri.git
+   git clone git  https://github.com/ejonadeda/Harjoitustyo.git
